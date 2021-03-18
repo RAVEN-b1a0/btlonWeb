@@ -1,0 +1,10 @@
+﻿:root {
+    --main-color: #99cd4e;
+    --while-color: #fff;
+    --black-color: #343434;
+    --background: #e3edf7;
+    --nav-color: #ccc;
+}
+body {
+    background-color: var(--background);
+}
